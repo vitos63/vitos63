@@ -12,8 +12,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vitos63&theme=dark)](https://git.io/streak-stats)
 
 ## 🛠️ Проекты:
-- [Project 1](https://github.com/vitos63/bunker)
-- [Project 2](https://github.com/vitos63/random_quote) - Описание проекта 2
+- [Bunker](https://github.com/vitos63/bunker)
+- [Random_quote](https://github.com/vitos63/random_quote) - Описание проекта 2
 
 ## 📫 Связаться со мной:
 - **Telegram**: [@vitos_63](https://www.t.me/vitos_63)

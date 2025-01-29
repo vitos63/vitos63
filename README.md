@@ -9,7 +9,7 @@
 
 
 ## 📈 Моя активность:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vitos63&theme=dark)](https://git.io/streak-stats)
+![Your Stats](https://github-readme-stats.vercel.app/api?username=ivan&show_icons=true&count_private=true&theme=dark)
 
 ## 🛠️ Проекты:
 - [Bunker](https://github.com/vitos63/bunker)

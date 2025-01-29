@@ -13,7 +13,7 @@
 
 ## 🛠️ Проекты:
 - [Bunker](https://github.com/vitos63/bunker)
-- [Random_quote](https://github.com/vitos63/random_quote) - Описание проекта 2
+- [Random_quote](https://github.com/vitos63/random_quote)
 
 ## 📫 Связаться со мной:
 - **Telegram**: [@vitos_63](https://www.t.me/vitos_63)

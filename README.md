@@ -10,6 +10,7 @@
 
 ## 📈 Моя активность:
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=vitos63&show_icons=true&count_private=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitos63&layout=compact&theme=dark)
 
 ## 🛠️ Проекты:
 - [Random_quote](https://github.com/vitos63/random_quote)

@@ -4,8 +4,12 @@
 ![Python](https://img.shields.io/badge/Python-blue)
 ![Django](https://img.shields.io/badge/Django-61DAFB)
 ![DRF](https://img.shields.io/badge/DRF-339933)
+![Redis]([https://img.shields.io/badge/Redis-red])
+![Celery]([https://img.shields.io/badge/Celery-green])
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-47A248)
 ![Docker](https://img.shields.io/badge/Docker-blue)
+
+
 
 
 ## 📈 Моя активность:

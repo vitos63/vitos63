@@ -3,13 +3,14 @@
 Моя цель — создавать простые, но эффективные решения для реальных задач, а также не бояться экспериментировать с новыми подходами и инструментами. Я верю, что каждый проект — это возможность расти и учиться.
 
 ## 🔧 Используемые технологии:
-![Python](https://img.shields.io/badge/Python-blue)
-![Django](https://img.shields.io/badge/Django-61DAFB)
-![DRF](https://img.shields.io/badge/DRF-339933)
-![Redis](https://img.shields.io/badge/Redis-red)
-![Celery](https://img.shields.io/badge/Celery-green)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-47A248)
-![Docker](https://img.shields.io/badge/Docker-blue)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
 
@@ -26,4 +27,4 @@
 - [Bunker](https://github.com/vitos63/bunker) - Приложение предназначено для автоматизации процесса игры в "Бункер" с более сложными и реалистичными правилами. Пользователь вводит количество игроков, которые прошли в бункер, а также выбирает "Катастрофу", которая влияет на события в игре. После этого необходимо заполнить характеристики каждого игрока и нажать на кнопку "Рассчитать". После вычислений, приложение выведет итоги игры
 
 ## 📫 Связаться со мной:
-- **Telegram**: [@vitos_63](https://www.t.me/vitos_63)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vitos_63) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitya.bashkov64@gmail.com)

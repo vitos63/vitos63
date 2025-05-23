@@ -1,4 +1,4 @@
-<img src="assets/hello.gif" style="max-width: 100%; height: auto;">
+<!--<img src="assets/hello.gif" style="max-width: 100%; height: auto;">
 
 # Привет, я Витя 
 👋 Добро пожаловать на мой GitHub! Я — начинающий Backend-разработчик, и это мой путь в мир технологий. Сейчас я активно учусь и совершенствую свои навыки.
@@ -15,8 +15,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
-
-
 ## 📈 Моя активность<sub><img src="assets/arrows_1.gif" width="50" height="50"/></sub>
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=vitos63&show_icons=true&count_private=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitos63&layout=compact&theme=dark)
@@ -29,4 +27,6 @@
 - [Bunker](https://github.com/vitos63/bunker) - Приложение предназначено для автоматизации процесса игры в "Бункер" с более сложными и реалистичными правилами. Пользователь вводит количество игроков, которые прошли в бункер, а также выбирает "Катастрофу", которая влияет на события в игре. После этого необходимо заполнить характеристики каждого игрока и нажать на кнопку "Рассчитать". После вычислений, приложение выведет итоги игры
 
 ## 📫 Связаться со мной<sub><img src="assets/arrows_1.gif" width="50" height="50"/></sub>
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vitos_63) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitya.bashkov64@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vitos_63) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitya.bashkov64@gmail.com)-->
+
+

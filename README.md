@@ -1,4 +1,4 @@
-<img src="assets/hello.gif" style="max-width: 100%; height: auto;">
+<!-- <img src="assets/hello.gif" style="max-width: 100%; height: auto;">
 
 ## 🔧 Используемые технологии<sub><img src="assets/arrows_1.gif" width="50" height="50"/></sub>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -11,7 +11,7 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) -->
 
 
 <!--## 📈 Моя активность<sub><img src="assets/arrows_1.gif" width="50" height="50"/></sub>
